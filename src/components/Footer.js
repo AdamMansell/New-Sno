@@ -9,7 +9,7 @@ function Footer() {
                 What you need to know ~ Where you need to know it
             </p>
             <p className="footer-subscription-text">
-                Subscribe to the Adventure.
+                Subscribe to the best Adventure.
             </p>
             <div className="input-areas">
             </div>
